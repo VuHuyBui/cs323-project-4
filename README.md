@@ -85,6 +85,7 @@ The notebook explores **privacy-preserving computation** using:
 
 * **Paillier Cryptosystem** — additive homomorphic encryption to compute encrypted sums or averages.
 * **Shamir’s Secret Sharing** — secure multi-party computation (MPC) technique for distributed data aggregation.
+* **Differential Privacy** — secure computation with added noise.
 
 ### Key Experiments
 
