@@ -67,13 +67,13 @@ pip install numpy matplotlib phe
    ```bash
    jupyter notebook
    ```
-3. Open `project3.ipynb` from the Jupyter dashboard.
+3. Open `project4.ipynb` from the Jupyter dashboard.
 4. Run all cells in order:
    **Kernel → Restart & Run All**
 
 ### Option 2: Using VS Code or JupyterLab
 
-1. Open `project3.ipynb` in VS Code or JupyterLab.
+1. Open `project4.ipynb` in VS Code or JupyterLab.
 2. Select the appropriate Python environment.
 3. Run cells sequentially or execute the full notebook.
 
@@ -99,7 +99,8 @@ The notebook explores **privacy-preserving computation** using:
 
 After running the notebook, you will obtain:
 
-* **Runtime comparisons** plotted and saved in `comparison_three_plots.png`
+* **Runtime comparisons** plotted and saved in `plot_total_runtime.png`
+* **Accuracy comparisons** plotted and saved in `plot_accuracy_mse.png`
 * **Runtime** saved in the CSV files.
 ---
 
