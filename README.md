@@ -92,6 +92,7 @@ The notebook explores **privacy-preserving computation** using:
 * Compare runtime performance between Paillier and Shamir encryption for increasing number of participants (`n`).
 * Ensure equivalent **security levels** by matching **prime bit lengths** between both schemes.
 * Visualize runtime results in milliseconds.
+* Visualize accuracy of Differential Privacy
 
 ---
 
